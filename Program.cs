@@ -1,6 +1,6 @@
 ﻿using System Karolina;
 
-namespace testowe
+namespace testowe1
 {
     class Program
     {
