@@ -8,6 +8,5 @@ namespace testowe
         {
             Console.WriteLine("Hello World!");
         }
-        blabla
     }
 }
